@@ -24,8 +24,4 @@ class Caneta{
 }
 
 
-
-
-
-
 ?>
