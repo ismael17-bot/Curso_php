@@ -6,5 +6,17 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
+     require_once "pessoa.php";
+     require_once "aluno.php";
+     require_once "visitante.php";
+     require_once "bolsista.php";
+
+     
+
+    
+    
+    
+    ?>
 </body>
 </html>

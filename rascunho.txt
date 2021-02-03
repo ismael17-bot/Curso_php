@@ -1,0 +1,9 @@
+polimorfismo é chamar o mesmo metodo e fazer o metodo fazer coisas difetentes
+Exemplo tenho  uma classe abstrata (MAE)
+que tem metodos(funçao) abstratos
+dentro de cada filho eu posso alterar esse metodo, e cada vez que eu chamar o metodos 
+o resultado sera diferente, indepedente de quantas vezes eu sobrepor
+no php isso e automatico
+
+"Acontece quando substituimos um metodo de uma superclasse na sua subclasse
+usando a mesma assinatura
